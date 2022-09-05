@@ -18,3 +18,9 @@ void SortingArray (string [] array){
 }
 
 string[] Myarray = new string[] {"Hi","city","old","mouse","24","friend"};
+
+ShowArray(Myarray);
+
+Console.Write("--> ");
+
+SortingArray(Myarray);
