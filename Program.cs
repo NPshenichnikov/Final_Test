@@ -6,7 +6,7 @@
 }
 
 void SortingArray (string [] array){
-    
+
      string[] Newarray = new string[array.Length];
 
      for (int i = 0; i < array.Length; i++){      
@@ -16,3 +16,5 @@ void SortingArray (string [] array){
         }
      }
 }
+
+string[] Myarray = new string[] {"Hi","city","old","mouse","24","friend"};
